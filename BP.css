@@ -1,0 +1,22 @@
+body {
+    padding: 20%;
+}
+.search {
+    margin: 2%;
+    border-color: aqua;
+    color: aqua;
+    border-radius: 50px;
+
+}
+.plus {
+    margin: 5%;
+    border-radius: 100px;
+    background-color: aqua;
+    border-color: aqua;
+    color: azure;
+
+}
+.create {
+    background-color: cornflowerblue;
+    color: azure; 
+}
